@@ -56,3 +56,10 @@ Most importantly, it taught me how software systems evolve through iteration and
 
 ```bash
 python snake.py
+```
+
+## License
+
+Licensed under the Apache License, Version 2.0.
+
+Copyright (c) 2022-2026 Ignaxus

@@ -1,3 +1,11 @@
+"""
+Snake game
+A snake game written in Python using Pygame.
+
+Copyright (c) 2022-2026 Ignaxus
+Licensed under the Apache License, Version 2.0
+"""
+
 #import modulus
 import sys
 import pygame
